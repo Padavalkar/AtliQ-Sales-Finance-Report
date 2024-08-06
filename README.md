@@ -82,6 +82,8 @@ AtliQ Hardware is  a leading company that supplies computer hardware and periphe
 
 **P & L Market**
 
+## Insights on Sales & Finance Report can be accessed or viewed from the pptx attached.
+
 
 
 
