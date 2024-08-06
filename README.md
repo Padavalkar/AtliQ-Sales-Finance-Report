@@ -38,6 +38,25 @@ AtliQ Hardware is  a leading company that supplies computer hardware and periphe
 
   **Neptune:** A company that buys products in bulk from Atliq Hardware and distributes them to various retailers or other outlets, playing a key role in the supply chain.
 
+  ## Problem Statement:
+
+  AtliQ Hardware is facing Significant losses in recent years.
+  
+  Rely on hand written  reports.
+  
+  Need of insights for informed Decision-making.
+  
+  Request for a Data Analyst to create a Excel report.
+  
+  Analysis focused on Sales and Finance Performance.
+
+  ## Data Modelling:
+
+  ![image](https://github.com/user-attachments/assets/c9ee5ee3-1473-4f2c-a39a-706f593778c6)
+
+
+
+
   
 
   
