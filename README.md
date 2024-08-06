@@ -54,6 +54,38 @@ AtliQ Hardware is  a leading company that supplies computer hardware and periphe
 
   ![image](https://github.com/user-attachments/assets/c9ee5ee3-1473-4f2c-a39a-706f593778c6)
 
+## DAX Measures:
+
+![image](https://github.com/user-attachments/assets/3ae6d9fd-e5e1-4a87-ac14-0d69c39f2d2c)
+
+## Reports:
+
+### Sales:
+
+**Customer Performance Report**
+
+**Top 10 Products**
+
+**Division Level**
+
+**Top & Bottom 5 Products**
+
+**New Products – 2021**
+
+**Top 5 Countries**
+
+### Finanace:
+
+**P & L Yearly**
+
+**P & L Monthly**
+
+**P & L Market**
+
+
+
+
+
 
 
 
