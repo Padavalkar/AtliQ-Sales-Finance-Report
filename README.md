@@ -1,4 +1,4 @@
-# AtliQ-Sales-Finance-Report
+# AtliQ-Sales-Finance-Report (Excel)
 
 ## Content
 
